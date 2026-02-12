@@ -1,4 +1,4 @@
-Overview
+# Overview
 
 This project is an end-to-end analytics case study focused on understanding account growth, churn behavior, revenue quality, and customer support performance for a SaaS-style business.
 The goal was to simulate a real-world analytics workflow:
